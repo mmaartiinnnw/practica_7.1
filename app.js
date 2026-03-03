@@ -8,6 +8,8 @@ var animals = {
     "eel": "hiss",
     "bear": "growl",
     "frog": "croak",
+	"shark": "shhh",
+	
     "lion": "roar",
     "bird": "tweet"
 }
