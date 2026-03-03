@@ -36,5 +36,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | 
-            TU_USUARIO_DOCKER/practica7.1:latest 
-            ghcr.io/TU_USUARIO_GITHUB/practica7.1:latest
+            mmaartiinnn/practica7.1:latest 
+            ghcr.io/mmaartiinnnw/practica7.1:latest
