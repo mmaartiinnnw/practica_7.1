@@ -31,5 +31,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/practica_7.1:latest
-            ghcr.io/${{ github.repository }}:latest
+            mmaartiinnn/practica_7.1:latest
+            ghcr.io/mmaartiinnn/practica_7.1:latest
